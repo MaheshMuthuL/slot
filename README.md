@@ -125,7 +125,7 @@ Execute the program using runserver command.
 
 
 ## OUTPUT
-![alt text](<Screenshot (268).png>)
+![alt text](<Screenshot (271).png>)
 
 
 ## RESULT
