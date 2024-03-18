@@ -37,15 +37,15 @@ Execute the program using runserver command.
      <table align="center" width="550" cellspacing="2" cellpadding="4" border="5" bgcolor="cyan">
      <caption><b>Time Table</b></caption>
 <tr align="center">
-	<th bgcolor="yellow">Day/Time</th>
-	<th bgcolor="yellow">Monday</th>
-	<th bgcolor="yellow">Tuesday</th>
-	<th bgcolor="yellow">Wednesday</th>
-	<th bgcolor="yellow">Thursday</th>
- 	<th bgcolor="yellow">Friday</th>
+	<th bgcolor="red">Day/Time</th>
+	<th bgcolor="red">Monday</th>
+	<th bgcolor="red">Tuesday</th>
+	<th bgcolor="red">Wednesday</th>
+	<th bgcolor="red">Thursday</th>
+ 	<th bgcolor="red">Friday</th>
 </tr>
 <tr align="center">
-	<th bgcolor="yellow">8-10</th>
+	<th bgcolor="blue">8-10</th>
 	<td>Maths</td>
 	<td>BEEE</td>
 	<td>FWAD</td>
@@ -53,7 +53,7 @@ Execute the program using runserver command.
     <td>BEEE</td>
 </tr>
 <tr align="center">
-	<th bgcolor="yellow">10-12</th>
+	<th bgcolor="blue">10-12</th>
 	<td>FREE SLOT</td>
 	<td>FWAD</td>
 	<td>DBMS</td>
@@ -62,11 +62,11 @@ Execute the program using runserver command.
 
 </tr>
 <tr>
-	<th bgcolor="yellow">12-1</th>
+	<th bgcolor="blue">12-1</th>
 	<td colspan="5" align="center">L U N C H</td>
 </tr>
 <tr align="center">
-	<th bgcolor="yellow">1-3</th>
+	<th bgcolor="blue">1-3</th>
 	<td>FWAD</td>
 	<td>DBMS</td>
 	<td>C</td>
@@ -75,7 +75,7 @@ Execute the program using runserver command.
 
 </tr>
 <tr align="center">
-	<th bgcolor="yellow">3-5</th>
+	<th bgcolor="blue">3-5</th>
 	<td colspan="3">FREE SLOT</td>
 	<td>FREE SLOT</td>
     <td>FREE SLOT</td>
